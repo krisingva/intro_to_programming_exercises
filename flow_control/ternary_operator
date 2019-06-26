@@ -1,0 +1,8 @@
+#ternary_operator
+
+puts "What is your age?"
+age = gets.chomp.to_i
+
+
+#age < 18 ? puts "You are just a kid" : puts "You are grown up"
+
